@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/210731839692865546)](https://discord.com/users/210731839692865546)
+This is mainly just me doing goofy things.
